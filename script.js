@@ -3,7 +3,7 @@ const $hero = $('.hero');
 const TOTAL_FRAMES = 68;
 
 function generateSrc(nFrame) {
-  return `./assets/frames/moto-${nFrame}.webp`;
+  return `./assets/frames/myCar-${nFrame}.webp`;
 }
 
 function updateImage(nFrame) {
